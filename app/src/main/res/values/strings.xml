@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">GPS Tracker</string>
+    <string name="title_activity_edit_numbers">Контакты</string>
+    <string name="title_activity_help">Помощь | О программе</string>
+
+    <string name="action_settings">Настройки</string>
+    <string name="action_help">Помощь</string>
+    <string name="enter_numbers_hint">Введите число</string>
+    <string name="enable_service">Запустить сервис</string>
+    <string name="add_number">Добавить</string>
+    <string name="developer">
+       \n\t Хабибулина Ю.Г. \n
+        \t инженер-программист\n
+        \t ОАСУ и ТС\n
+        \t РУП "Могилевоблгаз"\n
+    </string>
+    <string name="app_description_help">Приложение для отслеживания местоположения
+    \n</string>
+    <string name="know_how_description_html">
+        \n\t 1. Для включения приложения поставте галочку "Запустить сервис".\n
+        \t 2. Для отключения приложения уберите галочку "Запустить сервис".\n
+    </string>
+    <string name="service_disabled_welcome">Служба отключена, сообщения не будут отправляться.</string>
+    <string name="title_activity_log">Журнал</string>
+</resources>
